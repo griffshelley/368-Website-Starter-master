@@ -1,4 +1,49 @@
 /* Stylesheet */
-.paragraph1{ width: 75%;}
-.paragraph2{width:75%; .grid_6 omega;}
+
+body{ 
+	background-color: lightgray;
+	border: 3px black solid;
+	font-family: 'Montaga';
+		
+}
+
+h1 {
+	border-bottom: 5px black solid; width: 99%;
+	font-family: 'Montaga';
+}
+
+
+.dropcap {
+	font-size:72px;
+	float: left;
+	margin: -35px 1px;
+}
+	
+#teller {
+		border-bottom: 5px black solid;
+	
+}
+
+#paragraph4{ width:80%;
+}
+
+
+p{ 
+font-stretch: expanded;
+}
+
+h4{
+	border-bottom: 5px black solid;
+}
+
+#footer {
+		border-top: 2px black solid;
+		margin: 20px;	
+}
+
+p {
+	font-family: Arial;
+}
+
+
 	
