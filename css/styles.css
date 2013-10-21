@@ -46,7 +46,9 @@ p {
 }
 
 .paragraph1{
-			border: 2px;
+			border-bottom: 2px solid black;
 }
 
-	
+.bombpic{
+		align: center;
+}
